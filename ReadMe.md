@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello! I'm VaibhavMathur07 , a passionate software developer with a focus on creating high-quality and efficient solutions. I thrive on challenges and love to explore new technologies to expand my skill set. With a strong background in software development, I aim to contribute to innovative projects and make a positive impact on the world through my work.
-![Profile Image](https://github.com/VaibhavMathur07/Vaibhavmathur07/blob/719021db1b0b3f5bd39a0d275a55cd0628475a11/Black%20Pink%20Modern%20Email%20Header_page-0001.jpg)
+![Profile Image](./Black%20Pink%20Modern%20Email%20Header_page-0001.jpg)
 
 
 
